@@ -5,8 +5,8 @@ import decimal
 import json
 
 
-ACCESS_KEY=""
-SECRET_KEY=""
+ACCESS_KEY="AWS access key"
+SECRET_KEY="AWS secret key"
 
 def create_table(table_name):
     """
