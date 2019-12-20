@@ -5,8 +5,8 @@ import decimal
 import json
 
 
-ACCESS_KEY="AKIAIKQPKJKS2IBLSOBA"
-SECRET_KEY="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"
+ACCESS_KEY=""
+SECRET_KEY=""
 
 def create_table(table_name):
     """
